@@ -11,7 +11,7 @@ import CoreLocation
 
 class DistanceCalculator {
     
-    //Straight line distance calculate કરે છે (હવાઈ અંતર)
+    //Straight line distance calculate  (હવાઈ અંતર)
     static func calculateStraightLineDistance(from userLocation: CLLocation, to property: Property) -> Double {
         let propertyLocation = CLLocation(latitude: property.latitude, longitude: property.longitude)
         let distanceInMeters = userLocation.distance(from: propertyLocation)
