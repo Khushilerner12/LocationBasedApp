@@ -18,7 +18,7 @@ class DistanceCalculator {
         return distanceInMeters / 1000.0 // કિલોમીટરમાં return કરે છે
     }
     
-    /// Route distance calculate કરે છે (વાસ્તવિક રસ્તાનું અંતર)
+    /// calculate the route distance (વાસ્તવિક રસ્તાનું અંતર)
     static func calculateRouteDistance(from userLocation: CLLocation,
                                        to property: Property,
                                        transportType: MKDirectionsTransportType = .automobile,
