@@ -1,0 +1,94 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "2 BHK Apartment in Satellite",
+      "detail": "Fully furnished 2 bedroom apartment with parking, lift, and all modern amenities in prime Satellite area",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "price": "85 lac",
+      "latitude": 23.0768,
+      "longitude": 72.5298
+    },
+    {
+      "id": 2,
+      "title": "3 BHK Villa in Bopal",
+      "detail": "Independent villa with garden, 2 car parking, modular kitchen and swimming pool access",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      "price": "45 lac",
+      "latitude": 23.0768,
+      "longitude": 72.5298
+    },
+    {
+      "id": 3,
+      "title": "1 BHK Studio in CG Road",
+      "detail": "Compact studio apartment perfect for bachelors, fully furnished with AC and WiFi",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      "price": "90 lac",
+      "latitude": 23.0868,
+      "longitude": 72.5298
+    },
+    {
+      "id": 4,
+      "title": "4 BHK Penthouse in Prahlad Nagar",
+      "detail": "Luxury penthouse with terrace garden, premium fittings, and 360-degree city view",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      "price": "55 lac",
+      "latitude": 23.0678,
+      "longitude": 72.5298
+    },
+    {
+      "id": 5,
+      "title": "2 BHK Flat in Maninagar",
+      "detail": "Semi-furnished apartment with balcony, covered parking, and 24x7 security",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&auto=format&fit=crop&w=1174&q=80",
+      "price": "90 lac",
+      "latitude": 23.0867,
+      "longitude": 72.5298
+    },
+    {
+      "id": 6,
+      "title": "Commercial Shop in Law Garden",
+      "detail": "Ground floor commercial space ideal for retail business, high footfall area",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      "price": "77 lac",
+      "latitude": 23.0768,
+      "longitude": 72.5298
+    },
+    {
+      "id": 7,
+      "title": "3 BHK Duplex in Gota",
+      "detail": "Spacious duplex with separate entrance, terrace, and modern interiors in developing area",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&auto=format&fit=crop&w=1174&q=80",
+      "price": "65 lac",
+      "latitude": 23.0867,
+      "longitude": 72.5298
+    },
+    {
+      "id": 8,
+      "title": "1 BHK Service Apartment in Ahmedabad One",
+      "detail": "Premium serviced apartment with housekeeping, gym, and mall connectivity",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&auto=format&fit=crop&w=1180&q=80",
+      "price": "87 lac",
+      "latitude": 23.0678,
+      "longitude": 72.5298
+    },
+    {
+      "id": 9,
+      "title": "2 BHK Row House in Shela",
+      "detail": "Independent row house with front yard, car porch, and peaceful residential locality",
+      "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+      "price": "95 lac",
+      "latitude": 23.0968,
+      "longitude": 72.5298
+    },
+    {
+      "id": 10,
+      "title": "Office Space in SG Highway",
+      "detail": "Fully furnished office space with conference room, pantry, and high-speed internet connectivity",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1169&q=80",
+      "price": "95 lac",
+      "latitude": 23.0968,
+      "longitude": 72.5298
+    }
+  ]
+}
