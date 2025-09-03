@@ -61,7 +61,7 @@ class DistanceCalculator {
         }
     }
     
-    //Format time કરવા માટે helper method
+    //Format time for helper method
     static func formatTravelTime(_ seconds: TimeInterval) -> String {
         let minutes = seconds / 60.0
         if minutes < 60 {
