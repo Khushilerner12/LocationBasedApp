@@ -11,14 +11,14 @@ import CoreLocation
 
 class DistanceCalculator {
     
-    //Straight line distance calculate  (હવાઈ અંતર)
+    //Straight line distance calculate 
     static func calculateStraightLineDistance(from userLocation: CLLocation, to property: Property) -> Double {
         let propertyLocation = CLLocation(latitude: property.latitude, longitude: property.longitude)
         let distanceInMeters = userLocation.distance(from: propertyLocation)
         return distanceInMeters / 1000.0 // કિલોમીટરમાં return કરે છે
     }
     
-    /// calculate the route distance (વાસ્તવિક રસ્તાનું અંતર)
+    /// calculate the route distance 
     static func calculateRouteDistance(from userLocation: CLLocation,
                                        to property: Property,
                                        transportType: MKDirectionsTransportType = .automobile,
